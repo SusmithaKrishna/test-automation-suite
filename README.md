@@ -34,6 +34,6 @@ This Repository is created to Automate the test cases related to Westpac KiwiSav
    
 3. Go to src->test->java->runners->cucumberRunner
 
-4. Right click on the file and click on Run 'CucumberRunner'
+4. Right click on the file and click on Run 'CucumberRunner' (use cucumberTest to Run)
 
 5. Once the test run is completed, to view the cucumber reports navigate to build -> reports -> cucumber_reports -> cucumber-results-test-results.html -> right click -> Open in -> Browser -> select the browser that you want to see the reports in
