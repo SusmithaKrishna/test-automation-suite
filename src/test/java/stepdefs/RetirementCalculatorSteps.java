@@ -79,6 +79,6 @@ public class RetirementCalculatorSteps {
     @Then("show user what their KiwiSaver Projected balance would be at retirement")
     public void showKiwiSaverProjectedBalance() {
         String kiwiSaverProjeciton = retirementCalcPage.clickViewYourKiwiSaverProjections();
-        world.scenario.log("The KiwiSaver Projection for the given user details is " + kiwiSaverProjeciton);
+        world.scenario.log("The KiwiSaver Projection for the given user details is " + kiwiSaverProjeciton.replaceAll("\n", ""));
     }
 }
