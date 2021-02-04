@@ -18,7 +18,7 @@ This Repository is created to Automate the test cases related to Westpac KiwiSav
    
    a. click on code -> ensure HTTPS is selected -> copy the HTTPS URL: https://github.com/SusmithaKrishna/test-automation-suite.git
    
-   b. clone the code to your local using "git clone https://github.com/SusmithaKrishna/test-automation-suite.git"=
+   b. clone the code to your local using "git clone https://github.com/SusmithaKrishna/test-automation-suite.git"
         
 2. Open the Gradle Project on your System using intelliJ:
 
