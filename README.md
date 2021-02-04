@@ -15,6 +15,7 @@ This Repository is created to Automate the test cases related to Westpac KiwiSav
 ## How to Execute the Test Cases
 
 1. Clone the repository from
+
    a. navigate to the url: https://github.com/SusmithaKrishna/test-automation-suite
    
    b. click on code -> ensure HTTPS is selected -> copy the HTTPS URL: https://github.com/SusmithaKrishna/test-automation-suite.git
